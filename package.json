@@ -9,9 +9,13 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/sezginakman/React-Grid-DatePicker.git"
-  },
+  },  
   "keywords": [
-    "datepicker"
+    "react",
+    "datepicker",
+    "calendar",
+    "date",
+    "react-component"
   ],
   "author": "sezginakman",
   "license": "ISC",
